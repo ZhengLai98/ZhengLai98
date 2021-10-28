@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 <!--
@@ -7,7 +8,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ZhengLai98&show_icons=true&theme=tokyonight">
 
 - 🌱 前端练习生
-- 🔭 正在探索微前端
-- :dizzy: 摄影:camera: 相声:bell: 猫:cat:
-- 💬 保持清醒，情绪稳定
-- ⚡ Fun fact: ...
+- 🔭 Direction: 正在探索微前端
+- 💫 Hobby: 摄影📷 相声🔔 猫:🐱:
+- 💬 keep: 保持清醒，情绪稳定
+- ⚡ Fun fact: 不知名火锅爱好者
