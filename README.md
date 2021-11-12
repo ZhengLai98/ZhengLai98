@@ -13,3 +13,6 @@ Here are some ideas to get you started:
 - 💬 keep:&ensp;保持清醒，情绪稳定
 - ⚡ Fun fact:&ensp;不知名火锅爱好者
 - 🐛 算法与数据结构辣鸡
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
