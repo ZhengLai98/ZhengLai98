@@ -9,19 +9,25 @@
 </br>
 
 
-<!--
-**ZhengLai98/ZhengLai98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
---> 
+### 💬&ensp;About Me
+
+---
+
 - 🌱  Web Developer
 - 💫 Hobby:&ensp;跑焦📷&ensp;&ensp;猫🐱
 - 💬 Keep:&ensp;保持清醒，情绪稳定
 - ⚡ Fun fact:&ensp;不知名火锅爱好者
 - 🐛 Bug:&ensp;算法与数据结构辣鸡
 
+### 📊&ensp;Code Stats
+---
+
 <div style="display: flex; justify-content: space-between">
 <img align="center" style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhengLai98&layout=compact&theme=tokyonight">
 <img align="center" style="height: 150px"  src="https://github-readme-stats.vercel.app/api?username=ZhengLai98&show_icons=true&theme=tokyonight">
 </div>
+
+---
+
 
 
