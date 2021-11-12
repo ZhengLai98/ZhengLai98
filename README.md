@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:&ensp;不知名火锅爱好者
 - 🐛 算法与数据结构辣鸡
 
-<div>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhengLai98&layout=compact&theme=tokyonight">
-<img  src="https://github-readme-stats.vercel.app/api?username=ZhengLai98&show_icons=true&theme=tokyonight">
+<div style="display: flex; justify-content: space-between">
+<img align="center" style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhengLai98&layout=compact&theme=tokyonight">
+<img align="center" style="height: 150px"  src="https://github-readme-stats.vercel.app/api?username=ZhengLai98&show_icons=true&theme=tokyonight">
 </div>
+
 
